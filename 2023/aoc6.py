@@ -1,4 +1,4 @@
-with open(r"C:\Users\soaib\Documents\Projects\advent-of-code\2023\aoc5.txt", "r") as f:
+with open(r"aoc6.txt", "r") as f:
     lines = f.readlines()
     
 lines = [line.strip() for line in lines]
